@@ -1,0 +1,6 @@
+.metadata
+*.class
+bin/
+*~
+logs.zip
+*.orig
